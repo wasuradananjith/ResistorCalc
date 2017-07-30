@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ResistorCalc</string>
+    
+    <string-array name="colors">
+        <item>Select Colour</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gray</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="colors2">
+        <item>Select Colour</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gold</item>
+        <item>Silver</item>
+    </string-array>
+
+    <string-array name="colors3">
+        <item>Select Colour</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gray</item>
+        <item>Gold</item>
+        <item>Silver</item>
+    </string-array>
+</resources>
